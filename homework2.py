@@ -33,10 +33,7 @@ for line in range(6):
     print(line , "00000")
 
 '''
-total = 0
-for x in range(0, 14, 1):
-    total = total + x
-    print(total)
+
 
 
 
